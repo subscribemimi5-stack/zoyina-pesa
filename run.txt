@@ -1,0 +1,13 @@
+pip install -r requirements.txt
+python app.py
+# Fungua: http://localhost:5000
+
+
+
+UkurasaLink👤 Watumiaji http://localhost:5000🛡️ Adminhttp://localhost:5000/admin
+
+
+Admin login:
+
+Username: admin
+Nywila: admin123
